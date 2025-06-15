@@ -9,6 +9,7 @@
 # - Integra todas las funciones utilitarias y de visualización para ofrecer una experiencia de análisis completa y flexible.
 # - Usar versión de Streamlit 1.37.1 IMPORTANTE PARA QUE FUNCIONE 
 # - Instalar pip install streamlit-aggrid 
+# - Iniciarlizar la app con el comando: streamlit run app.py
 
 import streamlit as st
 import pandas as pd
